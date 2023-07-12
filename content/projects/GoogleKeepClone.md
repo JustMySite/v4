@@ -1,14 +1,13 @@
 ---
 date: '2018-12-29'
-title: 'Leveraging XSS to Read Internal Files'
+title: 'Active Directory: My Way (Part 2)'
 github: ''
-external: 'https://blog.dixitaditya.com/xss-to-read-internal-files'
+external: 'https://blog.hexbyte.in/active-directory-my-way-part-2-fd5dca30ce01'
 tech:
-  - XSS
-  - LFI
-  - Android
-  - Writeup
+  - Active Directory
+  - LLMNR Poisoning
+  - SMB Relay
 showInProjects: true
 ---
 
-A writeup on how I exploited XSS in an Android application to bypass filesystem restrictions to read internal files on a locked down Android device
+A follow-up on the 2 part series about Active Directory. I intend to explain 2 attack vectors, LLMNR Poisoning and SMB Relay Attack.
