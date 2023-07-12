@@ -59,20 +59,20 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Aditya Dixit.</h2>;
-  const three = <h3 className="big-heading">I hack the internet.</h3>;
+  const two = <h2 className="big-heading">Mrigendra Soni.</h2>;
+  const three = <h3 className="big-heading">Lets just say I hack things.</h3>;
   const four = (
     <>
       <p>
-        I'm a Security Researcher and Penetration Tester specializing in breaking the security of 
-        websites, Android/iOS applications, networks, and cloud environments. <br></br>        
+        I’m a product security engineer specializing in pentesting web apps and networks,
+        conducting cloud environment audits and local privilege escalation. Currently, I’m focused on securing the awesome products at Zendesk. <br></br>        
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://blog.dixitaditya.com"
+      href="https://blog.hexbyte.in"
       target="_blank"
       rel="noreferrer">
       Check out my Blog!
