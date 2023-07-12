@@ -1,16 +1,15 @@
 ---
 date: '2017-12-01'
-title: 'From Android Static Analysis to RCE on Production
-'
+title: 'ECS — The AWS-Docker Confluence'
 github: ''
-external: 'https://blog.dixitaditya.com/android-static-analysis-to-rce'
+external: 'https://blog.hexbyte.in/ecs-the-aws-docker-confluence-d478260ad963'
 tech:
-  - Android
-  - RCE
-  - MobSF
+  - AWS
+  - ECS
+  - Docker
 company: ''
 showInProjects: true
 ---
 
-A writeup on how I exploited an information disclosure in an Android app to get RCE on an internal server which was leveraged to the production environment
+A writeup on the infamous ECS service available on the AWS cloud.
 
