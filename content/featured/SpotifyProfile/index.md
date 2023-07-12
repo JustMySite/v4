@@ -1,13 +1,14 @@
 ---
 date: '2'
-title: 'Monitor-X'
-cover: './monitorx.png'
+title: 'ScanForMe'
+cover: './sfm.png'
 external: 'https://blog.dixitaditya.com/'
-github: 'https://github.com/az0mb13/Monitor-X/'
+github: 'https://github.com/Mrig26/ScanForMe'
 tech:
   - Python
-  - MongoDB
-  - Slack Webhooks
+  - sockets
+  - scapy
+  - argparse
 ---
 
-A Python project that integrates with other Subdomain Enumeration tools and saves them in a database for monitoring and alerts if a new subdomain has been added or removed along with Slack Webhook for alerts.
+A fast Python-based network scanner to discover hosts within a subnet. It also displays the MAC addresses for the discovered hosts.
