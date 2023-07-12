@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Aditya Dixit',
+    title: 'Mrigendra Soni',
     description:
-      'Aditya Dixit is a Security Researcher and Penetration Tester who specializes in pentesting Web and Mobile Applications, Networks and Cloud Environments.',
-    siteUrl: 'https://dixitaditya.com', // No trailing slash allowed!
+      'Mrigendra Soni is a Product Security Engineer and Penetration Tester who specializes in pentesting Web Applications, Networks, and Cloud Environments.',
+    siteUrl: 'https://hexbyte.in', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@zombie007o',
+    twitterUsername: '@mrigendrasoni',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
