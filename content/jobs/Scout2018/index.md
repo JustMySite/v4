@@ -1,10 +1,13 @@
 ---
 date: '2020-01-01'
-title: 'Pentest Team Lead'
-company: 'HackerOne'
-location: ''
-range: 'January 2020 - Present'
-url: 'https://hackerone.com/z0mb13'
+title: 'Security Researcher'
+company: 'Deriv'
+location: 'Malaysia'
+range: 'December 2020 - March 2022'
+url: 'https://deriv.com'
 ---
 
-- Managing and leading the Pentest team, working on testing projects involving Web Applications, Mobile Applications, Networks, and Cloud Environments
+- Initiated cloud security audits in AWS, GCP, and Ali Cloud environments
+- Conducting web application, network, and mobile application penetration tests thus securing customer-facing applications
+- Handling source code reviews and internal security tools such as CrodwStrike and Wazuh for monitoring purposes
+- Operating monthly phishing exercises, managing HackerOne tickets, and organizing security training for new employees
