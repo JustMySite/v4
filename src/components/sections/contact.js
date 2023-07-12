@@ -70,7 +70,7 @@ const Contact = () => {
       <br></br>
       <br></br>
       <p>
-        Find me on <a href="https://hackerone.com/z0mb13" target="_blank" rel="noopener noreferrer">HackerOne</a>, <a href="https://app.cobalt.io/aditya" target="_blank" rel="noopener noreferrer"> Cobalt</a>, and <a href="https://app.intigriti.com/profile/aditya" target="_blank" rel="noopener noreferrer"> Intigriti</a>.
+        Find me on <a href="https://app.intigriti.com/profile/blackwing" target="_blank" rel="noopener noreferrer"> Intigriti</a>.
       </p>
     </StyledContactSection>
   );
