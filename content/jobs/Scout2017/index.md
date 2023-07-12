@@ -1,10 +1,10 @@
 ---
 date: '2019-06-01'
-title: 'Cyber Security Consultant'
-company: 'Bitaces Labs'
-location: 'India'
-range: 'June 2019 - December 2021'
-url: 'https://bitaces.com/'
+title: 'Cyber Security Intern'
+company: 'StoryXpress'
+location: 'Gurugram'
+range: 'June 2019 - July 2019'
+url: 'https://storyxpress.co/'
 ---
 
-- Security Testing, Audits, and Code Reviews on Web Applications, Mobile Applications, Network Infrastructure and Cloud Environments
+- Conducting pentests on Web Application and API
