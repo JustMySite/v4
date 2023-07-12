@@ -1,13 +1,12 @@
 ---
 date: '2020-01-10'
-title: 'A deep dive into Task Hijacking in Android'
-external: 'https://blog.dixitaditya.com/task-hijacking'
+title: 'DNS, Subdomains & a tale of Takeovers'
+external: 'https://blog.hexbyte.in/dns-subdomains-a-tale-of-takeovers-99b50297abac'
 tech:
-  - Android
-  - Task Hijacking
-  - Research
+  - Subdomains
+  - DNS
 company: ''
 showInProjects: true
 ---
 
-An extensive research on Task Hijacking in Android showing how the vulnerability is introduced and the PoC to exploit it. 
+An extensive documentation on Subdomain Takeovers, explaining every component associated with it.
