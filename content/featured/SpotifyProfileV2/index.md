@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'Chopin'
-cover: './chopin.png'
-github: 'https://github.com/az0mb13/Chopin'
-cta: 'https://github.com/az0mb13/Chopin'
+title: 'changemac'
+cover: './cm.png'
+github: 'https://github.com/Mrig26/changemac'
+cta: 'https://github.com/Mrig26/changemac'
 tech:
-  - Python
-  - Masscan
-  - Shodan Monitoring API
-  - Nuclei
+  - python3
+  - subprocess
+  - optparse
+  - regex
 ---
 
-A Network Reconnaissance workflow useful in the initial stages of a Network Pentest, making use of Masscan, Shodan, Nuclei, HTTPX, and other tools.
+changemac is a python3-based script to quickly spoof your MAC address during a pentest engagement.
