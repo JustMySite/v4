@@ -1,14 +1,12 @@
 ---
 date: '2019-07-15'
-title: 'One-click SSL-Pinning Bypass Setup'
+title: 'Active Directory: My Way (Part 1)'
 github: ''
-external: 'https://blog.dixitaditya.com/one-click-ssl-pinning-bypass-setup'
+external: 'https://blog.hexbyte.in/active-directory-my-way-part-1-3694b6b7ac2d'
 tech:
-  - Frida
-  - Android
-  - Genymotion
-  - Bash
+  - Active Directory
+  - Domain Controller
 showInProjects: true
 ---
 
-An automation to set up the environment for Android application pentesting using Frida to bypass the SSL Pinning by using the Android Debug Bridge
+An simple writeup to explain Active Directory and the various components that comprise it.
