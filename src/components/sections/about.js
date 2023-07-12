@@ -136,21 +136,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Aditya and I enjoy hacking and reversing everything that live on the internet. My
-              interest in application security started back in 2013 and since then I have taught myself the ins and outs of security and pentesting. 
+              Hello! My name is Mrigendra and I enjoy hacking, or should I say pentesting. My interest in offensive security started back in 
+              2017 when I stumbled across discord servers posing as Anonymous group, not that it worked out very well but eventually I came across 
+              HackTheBox where I was able to secure 49th position in India and 420th, internationally. 
             </p>
 
             <p>
-              I'm currently working at <a href="https://credshields.com/" target="_blank" rel="noreferrer"> CredShields </a> as a Lead Security Researcher on Solidity, Smart Contracts, and Security on Blockchain 
-              and leading the Pentest Teams at <a href="https://app.cobalt.io/aditya" target="_blank" rel="noreferrer"> Cobalt Labs </a> and <a href="https://hackerone.com/z0mb13" target="_blank" rel="noreferrer"> HackerOne </a>.<br></br>
-              When I'm not working, I like to <a href="https://app.cobalt.io/aditya" target="_blank" rel="noreferrer"> Blog </a> about my research and findings.  
+              I have had the privilege of working at <a href="https://www.firecompass.com/" target="_blank" rel="noreferrer"> FireCompass </a>, <a href="https://storyxpress.co/" target="_blank" rel="noreferrer"> StoryXpress </a> 
+              and <a href="https://deriv.com/" target="_blank" rel="noreferrer"> Deriv </a>. I'm currently working at <a href="https://zendesk.com/" target="_blank" rel="noreferrer"> Zendesk </a> as 
+              a Product Security Engineer building security inclusive development processes, secured infrastructure and a safe experience for the customers at Zendesk. When I'm not working
+              I like to <a href="https://blog.hexbyte.in" target="_blank" rel="noreferrer"> Blog </a> about my learnings.  
             </p>
 
             <p>
-              I've completed a few certifications as well like OSCP by Offsec, AWS Certified Cloud Practitioner, and Qualys Certified VMDR Specialist. I'm going for AWS Security Specialty next. 
+              I've completed a few certifications as well like eCPPTv2 by eLearSecurity and PACSP by Pentester Academy. 
             </p>
 
-            <p>In my spare time, I enjoy automating my workflows and develop scanners and tools. Here are a few technologies I’ve been working with recently:</p>
+            <p>In my spare time, I enjoy writing scripts and building tools to automate processes. Here are a few technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
