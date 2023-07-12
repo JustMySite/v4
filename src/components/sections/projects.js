@@ -266,7 +266,7 @@ const Projects = () => {
     <StyledProjectsSection>
       <h2 ref={revealTitle}>My Blogs and Articles</h2>
 
-      <Link className="inline-link archive-link" to="https://blog.dixitaditya.com/archive" ref={revealArchiveLink}>
+      <Link className="inline-link archive-link" to="https://blog.hexbyte.in" ref={revealArchiveLink}>
         view the archive
       </Link>
 
@@ -301,7 +301,7 @@ const Projects = () => {
         )}
       </ul>
 
-      <button className="more-button" onClick={() => window.open("https://blog.dixitaditya.com/", "_blank")}>
+      <button className="more-button" onClick={() => window.open("https://blog.hexbyte.in/", "_blank")}>
         View All Posts
       </button>
     </StyledProjectsSection>
