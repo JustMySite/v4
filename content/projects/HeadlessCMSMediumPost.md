@@ -1,15 +1,15 @@
 ---
 date: '2019-11-12'
-title: 'Hacking a Chrome Extension for Fun and Profit'
+title: 'Block-Chain: What is it?'
 github: ''
-external: 'https://blog.dixitaditya.com/hacking-a-chrome-extension'
+external: 'https://blog.hexbyte.in/block-chain-what-is-it-f6a478bdc808'
 tech:
-  - Chrome Extension
-  - Reversing
-  - JavaScript
-  - Premium Bypass
+  - Blockchain
+  - Hashing
+  - Mining
+  - Smart Contract
 company: ''
 showInProjects: true
 ---
 
-A tutorial and writeup on how I exploited a Google Chrome extension to bypass the premium protection.
+A writeup to explain the various components of a blockchain in a concise manner.
