@@ -1,10 +1,11 @@
 ---
 date: '2019-10-1'
-title: 'Pentest Team Lead'
-company: 'Cobalt Labs'
-location: ''
-range: 'October 2019 - Present'
-url: 'https://app.cobalt.io/aditya'
+title: 'R&D Intern'
+company: 'FireCompass'
+location: 'Remote'
+range: 'July 2020 - Sept 2020'
+url: 'https://firecompass.com'
 ---
 
-- Managing and leading the Pentest team, working on testing projects involving Web Applications, Mobile Applications, Networks, and Cloud Environments
+- Collaborated to research numerous CI-CD and industrial tools, to derive best security practices
+- Discovering new discover and attack vectors for CI-CD tools
