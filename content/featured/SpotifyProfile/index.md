@@ -2,8 +2,8 @@
 date: '2'
 title: 'ScanForMe'
 cover: './sfm.png'
-external: 'https://blog.dixitaditya.com/'
-github: 'https://github.com/Mrig26/ScanForMe'
+external: 'https://blog.hexbyte.in/'
+github: 'https://github.com/0xhexbyte/ScanForMe'
 tech:
   - Python
   - sockets
