@@ -1,6 +1,6 @@
 ---
 date: '2021-12-01'
-title: 'Product Security Engingeer'
+title: 'Product Security Engineer'
 company: 'Zendesk'
 location: 'Singapore'
 range: 'March 2022 - Present'
