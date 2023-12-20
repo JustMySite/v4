@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'AdityaDixit',
-        short_name: 'AdityaDixit',
+        name: 'MrigendraSoni',
+        short_name: 'MrigendraSoni',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
